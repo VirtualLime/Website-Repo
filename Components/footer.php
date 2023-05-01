@@ -1,7 +1,6 @@
 <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Kelly</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
