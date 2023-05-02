@@ -5,11 +5,10 @@
     </h1>
     <nav id="navbar" class="navbar order-last order-lg-0">
       <ul>
-        <li><a href="/WebsiteRepo/index.php">Home</a></li>
-        <li><a href="/WebsiteRepo/Pages/about.php">About</a></li>
+        <li style="right:10%;"><a href="/WebsiteRepo/index.php">Home</a></li>
+        <li style="right:5%;"><a href="/WebsiteRepo/Pages/about.php">About</a></lis>
         <li><a href="/WebsiteRepo/Pages/resume.php">Resume</a></li>
-        <li><a href="/WebsiteRepo/Pages/portfolio.php">Portfolio</a></li>
-        <li><a href="/WebsiteRepo/Pages/contact.php">Contact</a></li>
+        <li style="left: 5%;"><a href="/WebsiteRepo/Pages/contact.php">Contact</a></li>
       </ul>
       <i class="bi bi-list mobile-nav-toggle"></i>
     </nav>

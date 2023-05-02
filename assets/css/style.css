@@ -761,7 +761,14 @@ section {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+.resume {
+  width: 50%;
+  margin: auto;
+}
+
 .resume .resume-title {
+  position: relative;
+  text-align: center;
   font-size: 26px;
   font-weight: 400;
   margin-top: 20px;
@@ -772,8 +779,10 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #34b7a7;
+  /*border-left: 2px solid #34b7a7;
+  border-right: 2px solid #34b7a7;*/
   position: relative;
+  text-align: center;
 }
 
 .resume .resume-item h4 {
@@ -796,6 +805,7 @@ section {
 }
 
 .resume .resume-item ul {
+  list-style: none;
   padding-left: 20px;
 }
 
@@ -807,6 +817,7 @@ section {
   padding-bottom: 0;
 }
 
+/*
 .resume .resume-item::before {
   content: "";
   position: absolute;
@@ -818,6 +829,7 @@ section {
   background: #fff;
   border: 2px solid #34b7a7;
 }
+*/
 
 /*--------------------------------------------------------------
 # Services

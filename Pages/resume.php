@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Resume - Kelly Bootstrap Template</title>
+  <title>Resume Tyler Arsenault</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -108,6 +108,10 @@
     </section><!-- End Resume Section -->
 
   </main><!-- End #main -->
+  <br>
+  <br>
+  <br>
+  <br>
 
   <!-- ======= Footer ======= -->
   <?php

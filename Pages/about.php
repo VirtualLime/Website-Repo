@@ -122,6 +122,8 @@
     </section><!-- End Skills Section -->
 
   </main>
+  <br>
+  <br>
 
   <!-- ======= Footer ======= -->
   <?php
